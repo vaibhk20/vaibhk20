@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhk20&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhk20" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vaibhavi006" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavi006?logo=twitter&style=for-the-badge" alt="vaibhavi006" /></a> </p>
-
 - 🔭 I’m currently working on [gluestack](https://gluestack.io/)
 
 - 🌱 I’m currently learning **React Native and NextJs**
