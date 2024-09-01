@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Vaibhavi!</h1>
-- 🔭 I’m currently working on [gluestack UI 🚀](https://gluestack.io/)
+- 🔭 I’m currently working on [gluestack UI](https://gluestack.io/) 🚀
 
-- 🌱 I’m currently learning **React Native and NextJs**
+- 💻 I’m currently learning **React Native and NextJs**
 
 - 💬 Ask me about **React**
 
