@@ -3,7 +3,7 @@
 - 🌟 Open Source Contributor & Developer
 - Core contributor to [gluestack-ui](https://github.com/gluestack) 🚀
 - Ask me about React, Next.js, Node.js, Nest, JavaScript, and TypeScript.
-- 🚀 Currently building and desinging workflow automation system using agents.
+- 🚀 Currently building and designing a workflow automation system.
   
 Let’s collaborate and innovate!
 
