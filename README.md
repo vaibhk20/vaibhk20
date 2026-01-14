@@ -2,8 +2,8 @@
 
 - 🌟 Open Source Contributor & Developer
 - Core contributor to [gluestack-ui](https://github.com/gluestack) 🚀
-- Ask me about React, Next.js, React Native, JavaScript, and TypeScript.
-- 🚀 Currently building solutions for universal development.
+- Ask me about React, Next.js, Node.js, Nest, JavaScript, and TypeScript.
+- 🚀 Currently building solutions automated agentic systems.
   
 Let’s collaborate and innovate!
 
